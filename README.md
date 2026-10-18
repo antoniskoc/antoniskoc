@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi ! Im Antoni and this is my github profile!
 <!--
 **antoniskoc/antoniskoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
